@@ -10,7 +10,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -150,7 +149,7 @@ venv.bak/
 # Ignorar pastas de build e distribuição
 installer/
 build/
-biuld_scripts/
+build_scripts/
 
 # Ignorar o arquivo de banco de dados (se for um arquivo de desenvolvimento)
 db.sqlite3
